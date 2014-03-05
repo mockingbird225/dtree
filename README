@@ -1,2 +1,2 @@
 Decision Tree in C++ 
-Reads output from a ARFF file.
+Reads input data(set of instances along with expected putput) from a ARFF file.
