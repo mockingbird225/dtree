@@ -1,2 +1,8 @@
 Decision Tree in C++ 
 Reads input data(set of instances along with expected putput) from a ARFF file.
+
+Running the code:
+./dt-learn <train-file> <test-file> <m>
+where "m" is the value of the stopping criterion 
+
+No pruning has been done as part of this project.
